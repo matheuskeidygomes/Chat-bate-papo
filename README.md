@@ -4,10 +4,10 @@
 
 ## Tecnologias Utilizadas
 
-Socket.io
-Node.js
+Socket.io  
+Node.js  
 CSS  
-JS  
+JS    
 
 ## Rodar o Projeto
 
