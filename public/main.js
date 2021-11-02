@@ -80,15 +80,17 @@ function addMessage(type, user, msg) {
 
             break;
 
-        case 'me-msg':
+        case 'msg':
 
-            ul.innerHTML += `<li class="m-txt me"> ${msg} </li>`;
+            if(username == user) {
 
-            break;
+                ul.innerHTML += `<li class="m-txt me"> ${msg} </li>`;
 
-        case 'other-msg':
+            } else {
+                
+                ul.innerHTML += `<li class="m-txt other"> <span> ${user} </span> ${msg} </li>`;
 
-            ul.innerHTML += `<li class="m-txt other"> <span> ${user} </span> ${msg} </li>`;
+            }
 
             break;
     }
@@ -134,7 +136,7 @@ socket.on('list-update', (data) => {
 
 socket.on('show-msg', (data) => {
 
-    addMessage('me-msg', data.username, data.msg);
+    addMessage('msg', data.username, data.msg);
 });
 
 
