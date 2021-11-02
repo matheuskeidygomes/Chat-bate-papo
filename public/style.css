@@ -14,6 +14,9 @@ body {
 #loginPage {
     display: flex;
     background-image: url('./imagens/whats.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
 }
 
 .loginContent {
@@ -143,3 +146,5 @@ body {
     border: none;
     border-radius: 10px;
 }
+
+
