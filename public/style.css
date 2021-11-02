@@ -84,6 +84,7 @@ body {
     max-width: 500px;
     border-radius: 10px;
     padding: 10px;
+    overflow: hidden;
 }
 
 .me {
@@ -147,4 +148,11 @@ body {
     border-radius: 10px;
 }
 
+@media only screen and (min-width:0px) and (max-width:700px) {
 
+    
+    .userList {
+        display: none;
+    }
+    
+}
