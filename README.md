@@ -11,11 +11,11 @@ JS
 
 ## Rodar o Projeto
 
-###Online:
+### Online:
 
 1º Acesse o link: https://bate-papo-wpp.herokuapp.com/
 
-###Local:
+### Local:
 
 1º Baixe/clone o projeto em sua máquina.  
 2º Vá até a pasta do projeto no terminal/cmd.  
