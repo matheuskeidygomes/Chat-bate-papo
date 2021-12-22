@@ -22,7 +22,7 @@ JS
 3º Instale as dependências necessárias com o comando npm install  
 4º Inicie o servidor com o comando npm start , uma nova aba ira se abrir no navegador, caso não abra, navegue para localhost:3000  
 
-### Preview:  
+## Preview:  
 
 ![image](https://user-images.githubusercontent.com/74063350/147145299-ccd44e2c-11f9-4765-a470-d1c4fcf95866.png)  
   
