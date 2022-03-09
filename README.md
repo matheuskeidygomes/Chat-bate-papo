@@ -9,10 +9,10 @@
 <h2 align="center">
  <a href="#Status">Status</a> •
  <a href="#Features">Features</a> •
-  <a href="#Repositório Online">Repositório Online</a> •  
+ <a href="#Repositório">Repositório Online</a> •  
  <a href="#Screenshots">Screenshots</a> • 
  <a href="#Pré-requisitos">Pré-requisitos</a> • 
- <a href="#Rodando a aplicação">Rodando a aplicação</a> • 
+ <a href="#Rodando">Rodando a aplicação</a> • 
  <a href="#Tecnologias">Tecnologias</a> • 
  <a href="#Autor">Autor </a>
 </h2>
@@ -76,7 +76,7 @@ $ npm start
 
 # Autor
 
-Desenvolvido por Matheus Keidy. Entre em contato:   
+Desenvolvido por <a href="https://github.com/matheuskeidygomes"> Matheus Keidy </a>. Entre em contato!  
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-keidy-7b9886190/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheuskeidygomes@gmail.com)
