@@ -6,14 +6,14 @@
 ![Npm](https://img.shields.io/badge/Npm-v8.3.1-blue) 
 ![License](https://img.shields.io/badge/License-MIT-red)
 
-<p align="center">
+<h2 align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#status">Status</a> •
  <a href="#tecnologias">Features</a> • 
  <a href="#autor">Preview</a>
  <a href="#autor">Pré-requisitos</a>
  <a href="#autor">Rodando a aplicação</a>
-</p>
+</h2>
 
 
 ## Tecnologias Utilizadas
