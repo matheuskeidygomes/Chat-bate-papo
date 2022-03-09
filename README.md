@@ -46,6 +46,12 @@ Será necessário ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). Também é 
 aconselhável ter um editor para trabalhar com o código, como o [VSCode](https://code.visualstudio.com/).
 
+```bash
+
+# Versão Node utilizada nesta aplicação: v16.14 (LTS)
+
+```
+
 # Rodando a aplicação
 
 ```bash
