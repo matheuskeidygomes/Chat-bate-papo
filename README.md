@@ -13,10 +13,12 @@
  <a href="#Pré-requisitos">Pré-requisitos</a> • 
  <a href="#Rodando a aplicação">Rodando a aplicação</a> • 
  <a href="#Tecnologias">Tecnologias</a> • 
- <a href="#Autor">Autor </a> • 
+ <a href="#Autor">Autor </a>
 </h2>
 
 # Status
+
+:heavy_check_mark: Finalizado
 
 # Features
 
