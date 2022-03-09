@@ -4,6 +4,7 @@
 
 ![Node](https://img.shields.io/badge/Node-v16.14%20(LTS)-brightgreen)
 ![Npm](https://img.shields.io/badge/Npm-v8.3.1-blue) 
+![License](https://img.shields.io/badge/License-MIT-red)
 
 ## Tecnologias Utilizadas
 

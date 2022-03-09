@@ -5,7 +5,7 @@
   "main": "src/server.js",
   "type": "module",
   "author": "Matheus Keidy <matheuskeidygomes@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon src/server.js",
