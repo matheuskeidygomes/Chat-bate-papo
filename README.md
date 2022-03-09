@@ -44,9 +44,27 @@ Acesse clicando <a href="https://bate-papo-wpp.herokuapp.com/">aqui</a>.
 
 Será necessário ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). Também é 
-aconselhável ter um editor para trabalhar com o código, como o [VSCode](https://code.visualstudio.com/)
+aconselhável ter um editor para trabalhar com o código, como o [VSCode](https://code.visualstudio.com/).
 
 # Rodando a aplicação
+
+```bash
+
+# Clone este repositório
+$ git clone <https://github.com/matheuskeidygomes/Chat-bate-papo.git>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd Chat-bate-papo
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação 
+$ npm start
+
+# O servidor iniciará na porta:3000 - acesse <http://localhost:3000>
+
+```
 
 # Tecnologias 
 
