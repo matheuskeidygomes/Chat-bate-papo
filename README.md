@@ -18,7 +18,7 @@
 
 # Status
 
-:heavy_check_mark: Finalizado
+:heavy_check_mark:   Finalizado
 
 # Features
 
