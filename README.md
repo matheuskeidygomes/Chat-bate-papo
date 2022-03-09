@@ -1,4 +1,4 @@
-# Objetivo 
+# Bate Papo Socket.IO
 
  Projeto de bate-papo online simples, utilizando Node.js e Socket.io. Este projeto foi criado para exercitar e me aprofundar nos conceitos de uma aplicação em tempo real, e também na tecnologia Node.js em conjunto com a biblioteca Socket.io.
 
