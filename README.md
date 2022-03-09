@@ -7,21 +7,39 @@
 ![License](https://img.shields.io/badge/License-MIT-red)
 
 <h2 align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#status">Status</a> •
- <a href="#tecnologias">Features</a> • 
- <a href="#autor">Preview</a>
- <a href="#autor">Pré-requisitos</a>
- <a href="#autor">Rodando a aplicação</a>
+ <a href="#Status">Status</a> •
+ <a href="#Features">Features</a> • 
+ <a href="#Preview">Preview</a> • 
+ <a href="#Pré-requisitos">Pré-requisitos</a> • 
+ <a href="#Rodando a aplicação">Rodando a aplicação</a> • 
+ <a href="#Tecnologias">Tecnologias</a> • 
+ <a href="#Autor">Autor </a> • 
 </h2>
 
+# Status
 
-## Tecnologias Utilizadas
+# Features
+
+# Preview 
+
+![image](https://user-images.githubusercontent.com/74063350/147145299-ccd44e2c-11f9-4765-a470-d1c4fcf95866.png)  
+  
+![image](https://user-images.githubusercontent.com/74063350/147145435-6d79df64-9133-402e-9ef2-46b5b3781057.png)
+  
+Acesse online clicando <a href="https://bate-papo-wpp.herokuapp.com/">aqui</a>.
+
+# Pré-requisitos
+
+# Rodando a aplicação
+
+# Tecnologias 
 
 Socket.io  
 Node.js  
 CSS  
 JS    
+
+# Autor
 
 ## Rodar o Projeto
 
@@ -37,8 +55,4 @@ JS
 4º Inicie o servidor com o comando npm start , uma nova aba ira se abrir no navegador, caso não abra, navegue para localhost:3000  
 
 ## Preview:  
-
-![image](https://user-images.githubusercontent.com/74063350/147145299-ccd44e2c-11f9-4765-a470-d1c4fcf95866.png)  
-  
-![image](https://user-images.githubusercontent.com/74063350/147145435-6d79df64-9133-402e-9ef2-46b5b3781057.png)
 
