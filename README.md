@@ -76,8 +76,6 @@ $ npm start
 
 # Autor
 
-![Avatar](https://avatars.githubusercontent.com/u/74063350?v=4) 
-  
 Desenvolvido por Matheus Keidy. Entre em contato:   
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-keidy-7b9886190/)
