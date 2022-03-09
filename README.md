@@ -22,6 +22,12 @@
 
 # Features
 
+- [x] Acessar bate-papo
+- [x] Enviar mensagens 
+- [x] Receber mensagens dos outros usuários
+- [x] Verificar usuários disponíveis
+
+
 # Preview 
 
 ![image](https://user-images.githubusercontent.com/74063350/147145299-ccd44e2c-11f9-4765-a470-d1c4fcf95866.png)  
