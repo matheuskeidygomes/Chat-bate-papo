@@ -26,7 +26,7 @@
   
 ![image](https://user-images.githubusercontent.com/74063350/147145435-6d79df64-9133-402e-9ef2-46b5b3781057.png)
   
-Acesse online clicando <a href="https://bate-papo-wpp.herokuapp.com/">aqui</a>.
+<h3> Acesse online clicando <a href="https://bate-papo-wpp.herokuapp.com/">aqui</a>. </h3>
 
 # Pré-requisitos
 
