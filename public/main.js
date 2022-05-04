@@ -31,7 +31,7 @@ loginInput.addEventListener('keyup', (e) => {
             socket.emit('join-request', username);
         }
     }
-
+    nectedUsers.
 });
 
 
